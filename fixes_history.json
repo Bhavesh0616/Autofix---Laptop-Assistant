@@ -1,0 +1,128 @@
+{
+    "fixes": [
+        {
+            "query": "what is AI?",
+            "response": "Artificial intelligence (AI) is a branch of computer science that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as learning, perception, reasoning, problem-solving, and consciousness."
+        },
+        {
+            "query": "open file manager",
+            "response": "File Manager opened!"
+        },
+        {
+            "query": "What is current USA economy?",
+            "response": "The US economy has been experiencing a slow growth of 2% since 1945. The GDP has grown by around 3% per year in the last decade. Inflation is not as high as other countries but the unemployment rate remains at about 7%. It's also important to note that the US government is currently facing budgetary challenges due to the ongoing COVID-19 pandemic."
+        },
+        {
+            "query": "What is AI?",
+            "response": "Artificial intelligence (AI) is a branch of computer science that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as learning, perception, reasoning, problem-solving, and consciousness."
+        },
+        {
+            "query": "What is Computer Graphics",
+            "response": "A computer graphics program allows you to create realistic 2D or 3D images by using computer graphics software such as Adobe Photoshop or Microsoft.NET."
+        },
+        {
+            "query": "Who is Elon Musk?",
+            "response": "The CEO of Tesla and SpaceX, as well as the founder of Neuralink."
+        },
+        {
+            "query": "Turn of wifi",
+            "response": "Use this command: netsh wlan disconnect"
+        },
+        {
+            "query": "turn off wifi",
+            "response": "Wi-Fi turned off\u2014disconnected from the network!"
+        },
+        {
+            "query": "How to open instagram?",
+            "response": "Click on Instagram icon in your profile or go to Instagram.com. [more]"
+        },
+        {
+            "query": "Is India is a developed country or the developing country?",
+            "response": "India is a developing country."
+        },
+        {
+            "query": "Thanks.",
+            "response": "I'm sorry to hear that! Could you please provide more information about what you would like me to analyze? This could include details such as the date of the query or the exact phrase you are referring to. Please also specify if you need help with anything specific related to your laptop's hardware, software, or other systems. With this additional information, I can better assist you in understanding your query and providing accurate answers. Let me know how I can assist you further!"
+        },
+        {
+            "query": "How to tell someone i love them?",
+            "response": "You can say \"I Love You\" or \"You're The Best\". It's not important what you say but just be yourself."
+        },
+        {
+            "query": "As an chatbot you are working fantastic..",
+            "response": "Thank you! How can I assist you today?"
+        },
+        {
+            "query": "is AI dangerous?",
+            "response": "Yes. AI can be dangerous because it can manipulate people's thoughts and emotions. It can also lead to social and political problems."
+        },
+        {
+            "query": "How Quntum computers ca help in making AI better?",
+            "response": "Quantum computers are more powerful than classical computers. They can solve problems that classical computers cannot solve. The quantum computers have the ability to process information much faster than classical computers. The ability of quantum computers to perform certain operations that classical computers cannot also make them very powerful. For example, quantum computers can break many encryption codes by breaking one specific operation that classical computers can't do. This means that quantum computers could potentially be used to build better AI systems."
+        },
+        {
+            "query": "What is AI?",
+            "response": "Artificial intelligence (AI) is a branch of computer science that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as learning, perception, reasoning, problem-solving, and consciousness."
+        },
+        {
+            "query": "What is AI?",
+            "response": "Artificial intelligence (AI) is a branch of computer science that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as learning, perception, reasoning, problem-solving, and consciousness."
+        },
+        {
+            "query": "What is book?",
+            "response": "A book is a printed or electronic publication containing written content. The term can also refer to any document that contains written information. In general, books are typically composed of text, images, illustrations, diagrams, charts, tables, and other forms of visual aids. They often contain narratives, historical events, biographies, science fiction, fantasy, romance, mystery, biography, poetry, essays, etc. Books are usually classified as literary works, scientific publications, non-fiction, entertainment, informational, instructional, etc."
+        },
+        {
+            "query": "what is alphabate?",
+            "response": "A character in a text file or database"
+        },
+        {
+            "query": "How to open settings in laptop?",
+            "response": "1. Open your laptop's settings menu (usually found under \"System\" or \"Settings\"). 2. Scroll down to \"General\" and then select \"Network and Sharing Center.\" 3. Click \"Open Network and Sharing Center\" to access your network settings."
+        },
+        {
+            "query": "how to open file explorer",
+            "response": "Press Win+E to open file explorer."
+        },
+        {
+            "query": "how to open file explorer",
+            "response": "Press Windows+E to open File Explorer."
+        },
+        {
+            "query": "my laptop is slow",
+            "response": "Try closing background apps or increase virtual memory."
+        },
+        {
+            "query": "my laptop is slow",
+            "response": "Try closing background apps or increasing virtual memory."
+        },
+        {
+            "query": "my laptop is slow",
+            "response": "Try closing background apps or increasing virtual memory."
+        },
+        {
+            "query": "what is ai",
+            "response": "Artificial intelligence (AI) is a branch of computer science that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as learning, perception, reasoning, problem-solving, and consciousness."
+        },
+        {
+            "query": "How to check the weight",
+            "response": "You can use this formula to calculate the weight of any object:"
+        },
+        {
+            "query": "What is AI?",
+            "response": "Artificial intelligence (AI) is a branch of computer science that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as learning, perception, reasoning, problem-solving, and consciousness."
+        },
+        {
+            "query": "why america is more developed country than india?",
+            "response": "India has been developing its economy in recent years due to its vast natural resources, favorable location, and large population. As of 2019, India was the world's second-largest economy by nominal GDP, with a Gross Domestic Product (GDP) per capita of $13,865 compared to $7,473 in China. In terms of GDP per capita, India also leads the world in the manufacturing sector, accounting for nearly 25% of global output. Additionally, India has a high standard of living and a growing middle class, which contribute to its economic growth."
+        },
+        {
+            "query": "is there any chance india to grow its economy more than america and china?",
+            "response": "India has been growing at 6% per year over the past 20 years. China has grown by about 7% per year over the same period. The United States has grown by about 3% per year over the same period."
+        },
+        {
+            "query": "How to increase stamina in body?",
+            "response": "In general, the best way to improve your stamina is by increasing your heart rate, which is essentially what you are doing during exercise. Exercise can also help build up your endurance, so you need to make sure that you get enough sleep each night and eat a balanced diet. Also, try to find ways to reduce stress, as stress can affect your stamina and make it difficult to maintain focus during exercise. Additionally, consider practicing yoga or other forms of physical activity to improve your overall health and fitness level. Finally, don't forget about rest days, as rest helps your body recover from exercise and prepare for future workouts. So, to increase"
+        }
+    ]
+}
